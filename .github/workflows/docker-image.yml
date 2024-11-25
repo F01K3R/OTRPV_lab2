@@ -1,4 +1,4 @@
-name: OTRPV_lab2
+name: otrpv_lab2
 
 on:
   push:
@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: f01k3r/OTRPV_lab2:latest
+        tags: f01k3r/otrpv_lab2:latest
